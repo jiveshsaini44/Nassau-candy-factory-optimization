@@ -1,0 +1,5 @@
+KPI,Numerator,Denominator,Coverage_Pct,Unit
+Product Recommendation Coverage,15,15,100.0,Percent of products with at least one alternative
+Validation-Priority Coverage,13,15,86.67,Percent of products with at least one priority option
+Alternative Priority Rate,37,60,61.67,Percent of alternatives marked priority
+Positive-Impact Product Coverage,13,15,86.67,Percent of products with a positive estimated impact

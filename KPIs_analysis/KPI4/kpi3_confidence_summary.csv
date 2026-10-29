@@ -1,0 +1,4 @@
+Confidence_Category,Alternatives,Average_Confidence_Score,Average_Net_Impact,Average_Worst_Case_Impact
+High scenario robustness,15,100.0,75085.72,1407.61
+Low scenario robustness,24,1.39,-10356.71,-20433.23
+Moderate scenario robustness,21,84.66,44351.36,-10829.86

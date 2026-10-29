@@ -1,0 +1,16 @@
+Product Name,Current_Factory,Alternative_Count,Priority_Recommendations,Review_Recommendations,Positive_Impact_Alternatives,Has_Alternative,Has_Priority_Recommendation,Has_Positive_Impact_Alternative,Coverage_Status
+Everlasting Gobstopper,Secret_Factory,4,1,3,1,True,True,True,Priority option available
+Fizzy Lifting Drinks,Sugar_Shack,4,3,1,3,True,True,True,Priority option available
+Fun Dip,Sugar_Shack,4,3,1,3,True,True,True,Priority option available
+Hair Toffee,The_Other_Factory,4,2,2,2,True,True,True,Priority option available
+Kazookles,The_Other_Factory,4,0,4,0,True,False,False,No priority option - review alternatives
+Laffy Taffy,Sugar_Shack,4,3,1,3,True,True,True,Priority option available
+Lickable Wallpaper,Secret_Factory,4,0,4,0,True,False,False,No priority option - review alternatives
+Nerds,Sugar_Shack,4,3,1,3,True,True,True,Priority option available
+SweeTARTS,Sugar_Shack,4,3,1,3,True,True,True,Priority option available
+Wonka Bar - Fudge Mallows,Lots_O_Nuts,4,4,0,4,True,True,True,Priority option available
+Wonka Bar - Milk Chocolate,Wicked_Choccys,4,3,1,3,True,True,True,Priority option available
+Wonka Bar - Nutty Crunch Surprise,Lots_O_Nuts,4,4,0,4,True,True,True,Priority option available
+Wonka Bar - Triple Dazzle Caramel,Wicked_Choccys,4,3,1,3,True,True,True,Priority option available
+Wonka Bar -Scrumdiddlyumptious,Lots_O_Nuts,4,4,0,4,True,True,True,Priority option available
+Wonka Gum,Secret_Factory,4,1,3,1,True,True,True,Priority option available

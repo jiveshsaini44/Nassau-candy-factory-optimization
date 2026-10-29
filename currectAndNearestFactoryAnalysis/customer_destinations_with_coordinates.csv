@@ -1,0 +1,656 @@
+Country/Region,City,State/Province,Postal Code,Region,latitude,longitude
+Canada,Calgary,Alberta,T2C,Pacific,51.0478,-114.0585
+Canada,Calgary,Alberta,T1Y,Pacific,51.0478,-114.0585
+Canada,Edmonton,Alberta,T5A,Pacific,,
+Canada,Vancouver,British Columbia,V6Z,Pacific,49.282,-123.1164
+Canada,Vancouver,British Columbia,V6G,Pacific,49.282,-123.1164
+Canada,Vancouver,British Columbia,V6B,Pacific,49.282,-123.1164
+Canada,Vancouver,British Columbia,V5K,Pacific,49.282,-123.1164
+Canada,Vancouver,British Columbia,V6E,Pacific,49.282,-123.1164
+Canada,Winnipeg,Manitoba,R0H,Interior,49.9562,-98.2857
+Canada,Winnipeg,Manitoba,R3R,Interior,49.8687,-97.1519
+Canada,Moncton,New Brunswick,E1A,Atlantic,46.093,-64.7834
+Canada,St. John's,Newfoundland and Labrador,A0A,Atlantic,47.5762,-53.005
+Canada,Halifax,Nova Scotia,B3H,Atlantic,44.6524,-63.5823
+Canada,Toronto,Ontario,M7A,Atlantic,43.6525,-79.3839
+Canada,Toronto,Ontario,M3C,Atlantic,43.6525,-79.3839
+Canada,Toronto,Ontario,M5H,Atlantic,43.6525,-79.3839
+Canada,Toronto,Ontario,M2N,Atlantic,43.6525,-79.3839
+Canada,Charlottetown,Prince Edward Island,C0A,Atlantic,46.2389,-63.1351
+Canada,Montreal,Quebec,H1A,Atlantic,45.5034,-73.5689
+Canada,Montreal,Quebec,H1B,Atlantic,45.5034,-73.5689
+Canada,Montreal,Quebec,H1C,Atlantic,45.5034,-73.5689
+Canada,Quebec City,Quebec,G1B,Atlantic,46.8152,-71.216
+Canada,Regina,Saskatchewan,S0G,Pacific,50.4504,-104.2047
+United States,Auburn,Alabama,36830,Gulf,32.6112,-85.4779
+United States,Decatur,Alabama,35601,Gulf,34.6032,-86.9838
+United States,Florence,Alabama,35630,Gulf,34.8044,-87.6808
+United States,Hoover,Alabama,35244,Gulf,33.4009,-86.7992
+United States,Huntsville,Alabama,35810,Gulf,34.7327,-86.5924
+United States,Mobile,Alabama,36608,Gulf,30.6921,-88.1504
+United States,Montgomery,Alabama,36116,Gulf,32.3836,-86.253
+United States,Tuscaloosa,Alabama,35401,Gulf,33.2058,-87.5643
+United States,Avondale,Arizona,85323,Pacific,33.494,-112.3149
+United States,Bullhead City,Arizona,86442,Pacific,35.1561,-114.5563
+United States,Chandler,Arizona,85224,Pacific,33.3671,-111.9128
+United States,Gilbert,Arizona,85234,Pacific,33.42315,-111.8661
+United States,Glendale,Arizona,85301,Pacific,33.5415,-112.06985
+United States,Mesa,Arizona,85204,Pacific,33.4218,-111.8313
+United States,Peoria,Arizona,85345,Pacific,33.5964,-112.225
+United States,Phoenix,Arizona,85023,Pacific,33.6263,-112.1325
+United States,Scottsdale,Arizona,85254,Pacific,33.5443,-112.0109
+United States,Sierra Vista,Arizona,85635,Pacific,31.556,-110.3
+United States,Tempe,Arizona,85281,Pacific,33.45,-111.9415
+United States,Tucson,Arizona,85705,Pacific,32.2276,-110.9671
+United States,Yuma,Arizona,85364,Pacific,32.716,-114.6206
+United States,Conway,Arkansas,72032,Gulf,35.0814,-92.4502
+United States,Fayetteville,Arkansas,72701,Gulf,,
+United States,Hot Springs,Arkansas,71901,Gulf,34.5124,-93.0568
+United States,Jonesboro,Arkansas,72401,Gulf,35.8365,-90.7061
+United States,Little Rock,Arkansas,72209,Gulf,34.7482,-92.3429
+United States,Pine Bluff,Arkansas,71603,Gulf,34.2228,-92.0086
+United States,Rogers,Arkansas,72756,Gulf,36.332899999999995,-94.1191
+United States,Springdale,Arkansas,72762,Gulf,36.182,-94.138
+United States,Texarkana,Arkansas,71854,Gulf,33.4266,-94.0341
+United States,Anaheim,California,92804,Pacific,33.8244,-117.9153
+United States,Antioch,California,94509,Pacific,38.0081,-121.8158
+United States,Apple Valley,California,92307,Pacific,34.5288,-117.2984
+United States,Bakersfield,California,93309,Pacific,35.3734,-119.0166
+United States,Brentwood,California,94513,Pacific,37.9339,-121.6924
+United States,Burbank,California,91505,Pacific,34.1823,-118.3077
+United States,Camarillo,California,93010,Pacific,34.2207,-119.0376
+United States,Chico,California,95928,Pacific,39.7248,-121.84
+United States,Chula Vista,California,91911,Pacific,32.6418,-117.0774
+United States,Citrus Heights,California,95610,Pacific,38.6401,-121.2842
+United States,Coachella,California,92236,Pacific,33.6796,-116.1713
+United States,Concord,California,94521,Pacific,37.9752,-122.0305
+United States,Costa Mesa,California,92627,Pacific,33.6689,-117.885
+United States,Danville,California,94526,Pacific,37.7683,-121.9634
+United States,Davis,California,95616,Pacific,38.5416,-121.739
+United States,Dublin,California,94568,Pacific,37.7389,-121.936
+United States,El Cajon,California,92020,Pacific,32.77805,-117.0165
+United States,Encinitas,California,92024,Pacific,33.0515,-117.2743
+United States,Escondido,California,92025,Pacific,33.1214,-117.077
+United States,Fairfield,California,94533,Pacific,38.2411,-122.0399
+United States,Fresno,California,93727,Pacific,36.7408,-119.7911
+United States,Hesperia,California,92345,Pacific,34.5288,-117.3013
+United States,Huntington Beach,California,92646,Pacific,33.6832,-117.9153
+United States,Inglewood,California,90301,Pacific,33.9606,-118.3518
+United States,La Mesa,California,91941,Pacific,32.7638,-117.0165
+United States,La Quinta,California,92253,Pacific,33.7184,-116.3004
+United States,Laguna Niguel,California,92677,Pacific,33.5588,-117.6994
+United States,Lake Elsinore,California,92530,Pacific,33.751599999999996,-117.6234
+United States,Lake Forest,California,92630,Pacific,33.6286,-117.6898
+United States,Lakewood,California,90712,Pacific,33.8741,-118.14605
+United States,Lancaster,California,93534,Pacific,34.6986,-118.1435
+United States,Lodi,California,95240,Pacific,38.00855,-121.2709
+United States,Long Beach,California,90805,Pacific,33.8898,-118.1812
+United States,Los Angeles,California,90049,Pacific,34.0399,-118.4536
+United States,Los Angeles,California,90036,Pacific,34.0617,-118.3429
+United States,Los Angeles,California,90008,Pacific,34.0041,-118.3265
+United States,Los Angeles,California,90004,Pacific,34.0924,-118.2922
+United States,Los Angeles,California,90045,Pacific,33.9606,-118.3853
+United States,Los Angeles,California,90032,Pacific,34.073,-118.2124
+United States,Manteca,California,95336,Pacific,37.7973,-121.2673
+United States,Mission Viejo,California,92691,Pacific,33.6286,-117.6907
+United States,Modesto,California,95351,Pacific,37.6442,-120.996
+United States,Montebello,California,90640,Pacific,34.017,-118.1389
+United States,Moreno Valley,California,92553,Pacific,33.934,-117.2695
+United States,Morgan Hill,California,95037,Pacific,37.1294,-121.6536
+United States,Murrieta,California,92563,Pacific,33.5496,-117.2123
+United States,Oakland,California,94601,Pacific,37.7845,-122.2458
+United States,Oceanside,California,92054,Pacific,33.2071,-117.3572
+United States,Ontario,California,91761,Pacific,34.0525,-117.6304
+United States,Oxnard,California,93030,Pacific,34.2081,-119.1761
+United States,Pasadena,California,91104,Pacific,34.1421,-118.1371
+United States,Pico Rivera,California,90660,Pacific,33.985299999999995,-118.08145
+United States,Pomona,California,91767,Pacific,34.06,-117.7461
+United States,Rancho Cucamonga,California,91730,Pacific,34.1062,-117.6304
+United States,Redding,California,96003,Pacific,40.5824,-122.3886
+United States,Redlands,California,92374,Pacific,34.0567,-117.182
+United States,Redondo Beach,California,90278,Pacific,33.8598,-118.3823
+United States,Redwood City,California,94061,Pacific,37.4831,-122.2263
+United States,Riverside,California,92503,Pacific,33.9245,-117.4388
+United States,Roseville,California,95661,Pacific,38.7506,-121.2842
+United States,Sacramento,California,95823,Pacific,38.5753,-121.4577
+United States,Salinas,California,93905,Pacific,36.6712,-121.6528
+United States,San Bernardino,California,92404,Pacific,34.116,-117.2925
+United States,San Clemente,California,92672,Pacific,33.560249999999996,-117.6907
+United States,San Diego,California,92037,Pacific,32.8762,-117.218
+United States,San Diego,California,92024,Pacific,33.0515,-117.2743
+United States,San Diego,California,92105,Pacific,32.7497,-117.1131
+United States,San Francisco,California,94109,Pacific,37.7875,-122.435
+United States,San Francisco,California,94110,Pacific,37.7726,-122.4169
+United States,San Francisco,California,94122,Pacific,37.7585,-122.4623
+United States,San Gabriel,California,91776,Pacific,34.0942,-118.1245
+United States,San Jose,California,95123,Pacific,37.2569,-121.8494
+United States,San Luis Obispo,California,93405,Pacific,35.2841,-120.6605
+United States,San Mateo,California,94403,Pacific,37.5395,-122.3007
+United States,Santa Ana,California,92704,Pacific,33.7056,-117.885
+United States,Santa Barbara,California,93101,Pacific,34.4175,-119.6992
+United States,Santa Clara,California,95051,Pacific,37.3746,-121.9515
+United States,Santa Maria,California,93454,Pacific,34.9481,-120.4347
+United States,Stockton,California,95207,Pacific,37.9907,-121.286
+United States,Sunnyvale,California,94086,Pacific,37.3757,-122.0275
+United States,Temecula,California,92592,Pacific,33.4977,-117.1401
+United States,Thousand Oaks,California,91360,Pacific,34.1765,-118.8554
+United States,Torrance,California,90503,Pacific,33.8355,-118.3158
+United States,Vacaville,California,95687,Pacific,38.3554,-121.9828
+United States,Vallejo,California,94591,Pacific,38.1023,-122.2469
+United States,Visalia,California,93277,Pacific,36.3277,-119.2908
+United States,Westminster,California,92683,Pacific,33.7587,-117.9326
+United States,Whittier,California,90604,Pacific,33.9345,-118.03575000000001
+United States,Woodland,California,95695,Pacific,38.6765,-121.7668
+United States,Yucaipa,California,92399,Pacific,34.0525,-117.2949
+United States,Arvada,Colorado,80004,Pacific,39.8003,-105.0795
+United States,Aurora,Colorado,80013,Pacific,39.6715,-104.8633
+United States,Broomfield,Colorado,80020,Pacific,39.9148,-105.0512
+United States,Colorado Springs,Colorado,80906,Pacific,38.836,-104.8182
+United States,Commerce City,Colorado,80022,Pacific,39.6799,-104.9153
+United States,Denver,Colorado,80219,Pacific,39.7454,-105.0252
+United States,Englewood,Colorado,80112,Pacific,39.743849999999995,-104.9948
+United States,Fort Collins,Colorado,80525,Pacific,40.5817,-105.0799
+United States,Greeley,Colorado,80634,Pacific,40.4265,-104.7014
+United States,Littleton,Colorado,80122,Pacific,39.599,-104.9024
+United States,Longmont,Colorado,80501,Pacific,40.1633,-105.1026
+United States,Louisville,Colorado,80027,Pacific,39.7454,-105.0512
+United States,Loveland,Colorado,80538,Pacific,40.3964,-105.0711
+United States,Parker,Colorado,80134,Pacific,39.7454,-105.0512
+United States,Pueblo,Colorado,81001,Pacific,38.2724,-104.6085
+United States,Thornton,Colorado,80229,Pacific,39.8334,-104.9781
+United States,Bristol,Connecticut,6010,Atlantic,,
+United States,Danbury,Connecticut,6810,Atlantic,,
+United States,Fairfield,Connecticut,6824,Atlantic,,
+United States,Manchester,Connecticut,6040,Atlantic,,
+United States,Meriden,Connecticut,6450,Atlantic,,
+United States,Middletown,Connecticut,6457,Atlantic,,
+United States,Milford,Connecticut,6460,Atlantic,,
+United States,Norwich,Connecticut,6360,Atlantic,,
+United States,Shelton,Connecticut,6484,Atlantic,,
+United States,Waterbury,Connecticut,6708,Atlantic,,
+United States,Dover,Delaware,19901,Atlantic,39.1607,-75.5223
+United States,Newark,Delaware,19711,Atlantic,39.6838,-75.7362
+United States,Wilmington,Delaware,19805,Atlantic,39.748,-75.5495
+United States,Washington,District of Columbia,20016,Atlantic,38.9435,-77.0632
+United States,Apopka,Florida,32712,Gulf,28.5995,-81.3728
+United States,Boca Raton,Florida,33433,Gulf,26.3498,-80.0889
+United States,Boynton Beach,Florida,33437,Gulf,26.5267,-80.0605
+United States,Coral Gables,Florida,33134,Gulf,25.7593,-80.2576
+United States,Coral Springs,Florida,33065,Gulf,26.2579,-80.1437
+United States,Daytona Beach,Florida,32114,Gulf,29.2169,-81.0269
+United States,Delray Beach,Florida,33445,Gulf,26.459,-80.0639
+United States,Deltona,Florida,32725,Gulf,28.5995,-81.3
+United States,Fort Lauderdale,Florida,33311,Gulf,26.1235,-80.1437
+United States,Hialeah,Florida,33012,Gulf,25.8831,-80.2838
+United States,Hollywood,Florida,33021,Gulf,26.0084,-80.1485
+United States,Homestead,Florida,33030,Gulf,25.4699,-80.478
+United States,Jacksonville,Florida,32216,Gulf,30.2883,-81.6267
+United States,Jupiter,Florida,33458,Gulf,26.7134,-80.0581
+United States,Kissimmee,Florida,34741,Gulf,28.2998,-81.4006
+United States,Lakeland,Florida,33801,Gulf,28.0343,-81.9504
+United States,Margate,Florida,33063,Gulf,26.2579,-80.1953
+United States,Melbourne,Florida,32935,Gulf,28.3487,-80.7265
+United States,Miami,Florida,33180,Gulf,25.9226,-80.1577
+United States,Miami,Florida,33178,Gulf,25.8078,-80.3381
+United States,Miami,Florida,33142,Gulf,25.8087,-80.218
+United States,Miramar,Florida,33023,Gulf,26.1171,-80.1437
+United States,North Miami,Florida,33161,Gulf,25.9226,-80.1577
+United States,Orlando,Florida,32839,Gulf,28.5412,-81.3728
+United States,Ormond Beach,Florida,32174,Gulf,29.232,-81.0467
+United States,Palm Coast,Florida,32137,Gulf,29.5746,-81.2059
+United States,Pembroke Pines,Florida,33024,Gulf,26.0083,-80.2143
+United States,Pensacola,Florida,32503,Gulf,30.4177,-87.2156
+United States,Plantation,Florida,33317,Gulf,26.1203,-80.2052
+United States,Pompano Beach,Florida,33068,Gulf,26.2431,-80.1953
+United States,Port Orange,Florida,32127,Gulf,29.232,-81.035
+United States,Port Saint Lucie,Florida,34952,Gulf,13.63325,-40.1421
+United States,Saint Petersburg,Florida,33710,Gulf,27.8206,-82.7332
+United States,Sanford,Florida,32771,Gulf,28.8043,-81.2754
+United States,Tallahassee,Florida,32303,Gulf,30.4454,-84.2819
+United States,Tamarac,Florida,33319,Gulf,26.1636,-80.2063
+United States,Tampa,Florida,33614,Gulf,27.9981,-82.5059
+United States,West Palm Beach,Florida,33407,Gulf,26.6985,-80.0581
+United States,Athens,Georgia,30605,Gulf,33.9571,-83.3812
+United States,Atlanta,Georgia,30318,Gulf,33.7815,-84.3929
+United States,Columbus,Georgia,31907,Gulf,32.4753,-84.9453
+United States,East Point,Georgia,30344,Gulf,33.6746,-84.4461
+United States,Macon,Georgia,31204,Gulf,32.8363,-83.6311
+United States,Marietta,Georgia,30062,Gulf,33.9516,-84.3824
+United States,Roswell,Georgia,30076,Gulf,33.8907,-84.1663
+United States,Sandy Springs,Georgia,30328,Gulf,33.9106,-84.3526
+United States,Smyrna,Georgia,30080,Gulf,33.8907,-84.4641
+United States,Warner Robins,Georgia,31088,Gulf,32.6208,-83.6138
+United States,Woodstock,Georgia,30188,Gulf,33.8907,-84.1663
+United States,Boise,Idaho,83704,Pacific,43.6095,-116.2162
+United States,Caldwell,Idaho,83605,Pacific,43.6669,-116.6838
+United States,Lewiston,Idaho,83501,Pacific,46.4179,-117.02
+United States,Meridian,Idaho,83642,Pacific,43.6087,-116.3055
+United States,Pocatello,Idaho,83201,Pacific,42.8579,-112.4481
+United States,Twin Falls,Idaho,83301,Pacific,42.5574,-114.476
+United States,Arlington Heights,Illinois,60004,Interior,42.0857,-87.987
+United States,Aurora,Illinois,60505,Interior,41.7561,-88.317
+United States,Bloomington,Illinois,61701,Interior,40.482,-88.9963
+United States,Bolingbrook,Illinois,60440,Interior,41.7126,-88.0081
+United States,Buffalo Grove,Illinois,60089,Interior,42.1368,-87.9577
+United States,Carol Stream,Illinois,60188,Interior,41.8668,-88.1078
+United States,Champaign,Illinois,61821,Interior,40.1181,-88.2488
+United States,Chicago,Illinois,60653,Interior,41.8153,-87.622
+United States,Chicago,Illinois,60610,Interior,41.8839,-87.6311
+United States,Chicago,Illinois,60623,Interior,41.8511,-87.683
+United States,Danville,Illinois,61832,Interior,40.1232,-87.6324
+United States,Decatur,Illinois,62521,Interior,39.8415,-88.9518
+United States,Des Plaines,Illinois,60016,Interior,42.0301,-87.8948
+United States,Elmhurst,Illinois,60126,Interior,41.8953,-87.9445
+United States,Evanston,Illinois,60201,Interior,42.0475,-87.6793
+United States,Frankfort,Illinois,60423,Interior,41.5238,-87.848
+United States,Freeport,Illinois,61032,Interior,42.296,-89.6224
+United States,Glenview,Illinois,60025,Interior,42.0725,-87.831
+United States,Highland Park,Illinois,60035,Interior,42.1682,-87.831
+United States,Naperville,Illinois,60540,Interior,41.7746,-88.1517
+United States,Normal,Illinois,61761,Interior,40.482,-88.9963
+United States,Oak Park,Illinois,60302,Interior,41.8888,-87.7936
+United States,Orland Park,Illinois,60462,Interior,41.6152,-87.8313
+United States,Oswego,Illinois,60543,Interior,41.71915,-88.3358
+United States,Palatine,Illinois,60067,Interior,42.1093,-88.047
+United States,Park Ridge,Illinois,60068,Interior,42.0089,-87.873
+United States,Peoria,Illinois,61604,Interior,40.6927,-89.5934
+United States,Quincy,Illinois,62301,Interior,39.9325,-91.4026
+United States,Rockford,Illinois,61107,Interior,42.2713,-89.0585
+United States,Romeoville,Illinois,60441,Interior,41.5875,-88.0613
+United States,Saint Charles,Illinois,60174,Interior,41.8881,-88.2791
+United States,Skokie,Illinois,60076,Interior,42.0303,-87.79415
+United States,Tinley Park,Illinois,60477,Interior,41.5769,-87.7851
+United States,Wheeling,Illinois,60090,Interior,42.0898,-87.969
+United States,Woodstock,Illinois,60098,Interior,42.319,-88.4501
+United States,Bloomington,Indiana,47401,Interior,39.1672,-86.5317
+United States,Columbus,Indiana,47201,Interior,39.2068,-85.9241
+United States,Elkhart,Indiana,46514,Interior,41.6842,-85.9768
+United States,Greenwood,Indiana,46142,Interior,39.6277,-86.118
+United States,Indianapolis,Indiana,46203,Interior,39.7714,-86.1583
+United States,La Porte,Indiana,46350,Interior,41.6098,-86.7264
+United States,Lafayette,Indiana,47905,Interior,40.4212,-86.8808
+United States,Lawrence,Indiana,46226,Interior,39.7991,-86.086
+United States,Mishawaka,Indiana,46544,Interior,41.5514,-86.1394
+United States,New Albany,Indiana,47150,Interior,38.2871,-85.8197
+United States,New Castle,Indiana,47362,Interior,39.9282,-85.3774
+United States,Noblesville,Indiana,46060,Interior,40.0286,-86.0178
+United States,Portage,Indiana,46368,Interior,41.5881,-87.1765
+United States,Richmond,Indiana,47374,Interior,39.8355,-84.9026
+United States,South Bend,Indiana,46614,Interior,41.5513,-86.2024
+United States,Burlington,Iowa,52601,Interior,40.8151,-91.1101
+United States,Cedar Rapids,Iowa,52402,Interior,41.9773,-91.6713
+United States,Des Moines,Iowa,50315,Interior,41.5903,-93.6275
+United States,Dubuque,Iowa,52001,Interior,42.5018,-90.6738
+United States,Iowa City,Iowa,52240,Interior,41.6639,-91.5354
+United States,Marion,Iowa,52302,Interior,42.0344,-91.60835
+United States,Urbandale,Iowa,50322,Interior,41.6001,-93.7118
+United States,Waterloo,Iowa,50701,Interior,42.4983,-92.3439
+United States,Garden City,Kansas,67846,Interior,37.9681,-100.8695
+United States,Manhattan,Kansas,66502,Interior,39.1835,-96.5844
+United States,Olathe,Kansas,66062,Interior,38.8826,-94.8152
+United States,Overland Park,Kansas,66212,Interior,38.9583,-94.6813
+United States,Wichita,Kansas,67212,Interior,37.6896,-97.3375
+United States,Bowling Green,Kentucky,42104,Gulf,36.99555,-86.44
+United States,Florence,Kentucky,41042,Gulf,39.0027,-84.6295
+United States,Georgetown,Kentucky,40324,Gulf,38.2081,-84.5528
+United States,Henderson,Kentucky,42420,Gulf,37.8346,-87.5806
+United States,Louisville,Kentucky,40214,Gulf,38.1845,-85.7691
+United States,Murray,Kentucky,42071,Gulf,36.6081,-88.3096
+United States,Owensboro,Kentucky,42301,Gulf,37.7686,-87.1185
+United States,Richmond,Kentucky,40475,Gulf,37.7496,-84.303
+United States,Bossier City,Louisiana,71111,Gulf,32.5155,-93.7497
+United States,Kenner,Louisiana,70065,Gulf,30.0044,-90.244
+United States,Lafayette,Louisiana,70506,Gulf,30.2247,-92.0214
+United States,Lake Charles,Louisiana,70601,Gulf,30.2305,-93.2145
+United States,Monroe,Louisiana,71203,Gulf,32.5035,-92.1086
+United States,Bangor,Maine,4401,Atlantic,,
+United States,Lewiston,Maine,4240,Atlantic,,
+United States,Baltimore,Maryland,21215,Atlantic,39.3369,-76.6827
+United States,Clinton,Maryland,20735,Atlantic,38.7717,-76.89465
+United States,Columbia,Maryland,21044,Atlantic,39.2093,-76.8258
+United States,Gaithersburg,Maryland,20877,Atlantic,39.1431,-77.2031
+United States,Hagerstown,Maryland,21740,Atlantic,39.6425,-77.7281
+United States,Laurel,Maryland,20707,Atlantic,39.08125,-76.87084999999999
+United States,Rockville,Maryland,20852,Atlantic,39.0558,-77.123
+United States,Andover,Massachusetts,1810,Atlantic,,
+United States,Beverly,Massachusetts,1915,Atlantic,,
+United States,Cambridge,Massachusetts,2138,Atlantic,,
+United States,Everett,Massachusetts,2149,Atlantic,,
+United States,Franklin,Massachusetts,2038,Atlantic,,
+United States,Holyoke,Massachusetts,1040,Atlantic,,
+United States,Lawrence,Massachusetts,1841,Atlantic,,
+United States,Leominster,Massachusetts,1453,Atlantic,,
+United States,Lowell,Massachusetts,1852,Atlantic,,
+United States,Malden,Massachusetts,2148,Atlantic,,
+United States,Marlborough,Massachusetts,1752,Atlantic,,
+United States,New Bedford,Massachusetts,2740,Atlantic,,
+United States,Quincy,Massachusetts,2169,Atlantic,,
+United States,Revere,Massachusetts,2151,Atlantic,,
+United States,Ann Arbor,Michigan,48104,Interior,42.2833,-83.7403
+United States,Canton,Michigan,48187,Interior,42.3598,-83.476
+United States,Dearborn,Michigan,48126,Interior,42.3083,-83.2148
+United States,Dearborn Heights,Michigan,48127,Interior,42.3083,-83.2148
+United States,Detroit,Michigan,48234,Interior,42.4156,-83.0177
+United States,Detroit,Michigan,48205,Interior,42.3982,-83.0177
+United States,Detroit,Michigan,48227,Interior,42.3919,-83.1936
+United States,Grand Rapids,Michigan,49505,Interior,42.9674,-85.6658
+United States,Holland,Michigan,49423,Interior,42.7922,-86.1005
+United States,Jackson,Michigan,49201,Interior,42.2524,-84.417
+United States,Lansing,Michigan,48911,Interior,42.7372,-84.552
+United States,Lincoln Park,Michigan,48146,Interior,42.2507,-83.1822
+United States,Midland,Michigan,48640,Interior,43.6138,-84.2414
+United States,Mount Pleasant,Michigan,48858,Interior,43.6026,-84.7693
+United States,Oak Park,Michigan,48237,Interior,42.4857,-83.2011
+United States,Rochester Hills,Michigan,48307,Interior,42.6402,-83.1693
+United States,Roseville,Michigan,48066,Interior,42.5006,-82.9379
+United States,Royal Oak,Michigan,48073,Interior,42.4857,-83.1425
+United States,Saginaw,Michigan,48601,Interior,43.4321,-83.9426
+United States,Sterling Heights,Michigan,48310,Interior,42.5496,-83.0323
+United States,Taylor,Michigan,48180,Interior,42.2416,-83.2011
+United States,Trenton,Michigan,48183,Interior,42.1439,-83.1837
+United States,Westland,Michigan,48185,Interior,42.357,-83.3826
+United States,Apple Valley,Minnesota,55124,Interior,45.0436,-93.2928
+United States,Coon Rapids,Minnesota,55433,Interior,45.1258,-93.2928
+United States,Cottage Grove,Minnesota,55016,Interior,45.0436,-93.2928
+United States,Eagan,Minnesota,55122,Interior,45.0436,-93.2928
+United States,Lakeville,Minnesota,55044,Interior,44.7411,-93.2878
+United States,Maple Grove,Minnesota,55369,Interior,45.042,-93.4008
+United States,Minneapolis,Minnesota,55407,Interior,44.9614,-93.2742
+United States,Moorhead,Minnesota,56560,Interior,46.8753,-96.7852
+United States,Rochester,Minnesota,55901,Interior,44.0237,-92.4712
+United States,Roseville,Minnesota,55113,Interior,45.0402,-93.1786
+United States,Saint Cloud,Minnesota,56301,Interior,45.5627,-94.1594
+United States,Saint Paul,Minnesota,55106,Interior,44.9629,-93.0943
+United States,Woodbury,Minnesota,55125,Interior,45.0436,-93.2928
+United States,Gulfport,Mississippi,39503,Gulf,30.3754,-89.0893
+United States,Hattiesburg,Mississippi,39401,Gulf,31.3228,-89.2946
+United States,Jackson,Mississippi,39212,Gulf,32.2974,-90.1948
+United States,Southaven,Mississippi,38671,Gulf,35.0313,-89.9927
+United States,Columbia,Missouri,65203,Interior,38.949,-92.3338
+United States,Gladstone,Missouri,64118,Interior,39.1864,-94.5795
+United States,Independence,Missouri,64055,Interior,39.0923,-94.4602
+United States,Jefferson City,Missouri,65109,Interior,38.574,-92.1736
+United States,Kirkwood,Missouri,63122,Interior,38.5942,-90.4074
+United States,Saint Charles,Missouri,63301,Interior,38.7856,-90.4854
+United States,Saint Louis,Missouri,63116,Interior,38.6094,-90.292
+United States,Saint Peters,Missouri,63376,Interior,38.7541,-90.611
+United States,Springfield,Missouri,65807,Interior,37.2102,-93.2909
+United States,Billings,Montana,59102,Pacific,45.7774,-108.5074
+United States,Bozeman,Montana,59715,Pacific,45.6789,-111.0369
+United States,Great Falls,Montana,59405,Pacific,47.5075,-111.29
+United States,Helena,Montana,59601,Pacific,46.6012,-112.0221
+United States,Missoula,Montana,59801,Pacific,46.8709,-113.9865
+United States,Fremont,Nebraska,68025,Interior,41.4404,-96.4926
+United States,Grand Island,Nebraska,68801,Interior,40.9222,-98.3418
+United States,Norfolk,Nebraska,68701,Interior,42.0253,-97.4134
+United States,Omaha,Nebraska,68104,Interior,41.2673,-95.9867
+United States,Henderson,Nevada,89015,Pacific,36.15595,-115.1419
+United States,Las Vegas,Nevada,89115,Pacific,36.1673,-115.1419
+United States,North Las Vegas,Nevada,89031,Pacific,36.1948,-115.1425
+United States,Reno,Nevada,89502,Pacific,39.5256,-119.8067
+United States,Sparks,Nevada,89431,Pacific,39.5256,-119.8067
+United States,Concord,New Hampshire,3301,Atlantic,,
+United States,Dover,New Hampshire,3820,Atlantic,,
+United States,Nashua,New Hampshire,3060,Atlantic,,
+United States,Atlantic City,New Jersey,8401,Atlantic,,
+United States,Bayonne,New Jersey,7002,Atlantic,,
+United States,Belleville,New Jersey,7109,Atlantic,,
+United States,Bridgeton,New Jersey,8302,Atlantic,,
+United States,Clifton,New Jersey,7011,Atlantic,,
+United States,East Orange,New Jersey,7017,Atlantic,,
+United States,Hackensack,New Jersey,7601,Atlantic,,
+United States,Lakewood,New Jersey,8701,Atlantic,,
+United States,Linden,New Jersey,7036,Atlantic,,
+United States,Morristown,New Jersey,7960,Atlantic,,
+United States,New Brunswick,New Jersey,8901,Atlantic,,
+United States,Orange,New Jersey,7050,Atlantic,,
+United States,Passaic,New Jersey,7055,Atlantic,,
+United States,Paterson,New Jersey,7501,Atlantic,,
+United States,Perth Amboy,New Jersey,8861,Atlantic,,
+United States,Plainfield,New Jersey,7060,Atlantic,,
+United States,Vineland,New Jersey,8360,Atlantic,,
+United States,Westfield,New Jersey,7090,Atlantic,,
+United States,Albuquerque,New Mexico,87105,Pacific,35.0808,-106.6478
+United States,Carlsbad,New Mexico,88220,Pacific,0.0,0.0
+United States,Clovis,New Mexico,88101,Pacific,0.0,0.0
+United States,Farmington,New Mexico,87401,Pacific,36.7322,-108.2101
+United States,Las Cruces,New Mexico,88001,Pacific,0.0,0.0
+United States,Rio Rancho,New Mexico,87124,Pacific,35.0808,-106.6478
+United States,Santa Fe,New Mexico,87505,Pacific,35.6845,-105.9477
+United States,Auburn,New York,13021,Atlantic,42.9305,-76.5751
+United States,Buffalo,New York,14215,Atlantic,42.9145,-78.8369
+United States,Freeport,New York,11520,Atlantic,40.6515,-73.59854999999999
+United States,Hempstead,New York,11550,Atlantic,40.7091,-73.6256
+United States,Jamestown,New York,14701,Atlantic,42.0952,-79.2447
+United States,Lindenhurst,New York,11757,Atlantic,40.696,-73.3657
+United States,Long Beach,New York,11561,Atlantic,40.6389,-73.664
+United States,Mount Vernon,New York,10550,Atlantic,40.9112,-73.8399
+United States,New Rochelle,New York,10801,Atlantic,40.9119,-73.7866
+United States,New York City,New York,10024,Atlantic,40.7393,-73.9898
+United States,New York City,New York,10035,Atlantic,40.7857,-73.9509
+United States,New York City,New York,10009,Atlantic,40.7302,-73.9838
+United States,New York City,New York,10011,Atlantic,40.7384,-73.9983
+United States,Niagara Falls,New York,14304,Atlantic,43.0747,-78.93584999999999
+United States,Oceanside,New York,11572,Atlantic,40.66,-73.6129
+United States,Rochester,New York,14609,Atlantic,43.159,-77.6096
+United States,Rome,New York,13440,Atlantic,43.2124,-75.4582
+United States,Troy,New York,12180,Atlantic,42.728,-73.6909
+United States,Utica,New York,13501,Atlantic,43.1047,-75.2249
+United States,Watertown,New York,13601,Atlantic,43.9752,-75.9162
+United States,Yonkers,New York,10701,Atlantic,40.9341,-73.9005
+United States,Asheville,North Carolina,28806,Gulf,35.5962,-82.5592
+United States,Burlington,North Carolina,27217,Gulf,36.0893,-79.4323
+United States,Cary,North Carolina,27511,Gulf,35.7888,-78.7823
+United States,Chapel Hill,North Carolina,27514,Gulf,35.9157,-78.972
+United States,Charlotte,North Carolina,28205,Gulf,35.226,-80.839
+United States,Concord,North Carolina,28027,Gulf,35.3976,-80.5828
+United States,Durham,North Carolina,27707,Gulf,35.993,-78.9008
+United States,Fayetteville,North Carolina,28314,Gulf,35.0681,-78.9011
+United States,Gastonia,North Carolina,28052,Gulf,35.2606,-81.1827
+United States,Goldsboro,North Carolina,27534,Gulf,35.3848,-77.9896
+United States,Greensboro,North Carolina,27405,Gulf,36.0696,-79.7919
+United States,Greenville,North Carolina,27834,Gulf,35.6075,-77.373
+United States,Hickory,North Carolina,28601,Gulf,35.7341,-81.3418
+United States,Jacksonville,North Carolina,28540,Gulf,34.7506,-77.4356
+United States,Monroe,North Carolina,28110,Gulf,34.9804,-80.5498
+United States,Raleigh,North Carolina,27604,Gulf,35.7843,-78.6366
+United States,Thomasville,North Carolina,27360,Gulf,35.9593,-79.9994
+United States,Wilmington,North Carolina,28403,Gulf,34.2227,-77.9415
+United States,Wilson,North Carolina,27893,Gulf,35.7245,-77.9084
+United States,Fargo,North Dakota,58103,Interior,46.8779,-96.7852
+United States,Akron,Ohio,44312,Atlantic,41.0621,-81.4651
+United States,Bowling Green,Ohio,43402,Atlantic,41.3748,-83.648
+United States,Cincinnati,Ohio,45231,Atlantic,39.2279,-84.5448
+United States,Cleveland,Ohio,44105,Atlantic,41.4655,-81.6381
+United States,Columbus,Ohio,43229,Atlantic,40.0982,-83.00030000000001
+United States,Cuyahoga Falls,Ohio,44221,Atlantic,41.1381,-81.488
+United States,Dublin,Ohio,43017,Atlantic,40.0997,-83.1018
+United States,Elyria,Ohio,44035,Atlantic,41.3909,-82.1069
+United States,Fairfield,Ohio,45014,Atlantic,39.3225,-84.55165
+United States,Grove City,Ohio,43123,Atlantic,39.9649,-83.02335
+United States,Hamilton,Ohio,45011,Atlantic,39.3744,-84.53415000000001
+United States,Kent,Ohio,44240,Atlantic,41.157,-81.356
+United States,Lakewood,Ohio,44107,Atlantic,41.5004,-81.682
+United States,Lancaster,Ohio,43130,Atlantic,39.7164,-82.6019
+United States,Lorain,Ohio,44052,Atlantic,41.463,-82.172
+United States,Marion,Ohio,43302,Atlantic,40.5857,-83.1347
+United States,Mason,Ohio,45040,Atlantic,39.3617,-84.3182
+United States,Medina,Ohio,44256,Atlantic,41.1327,-81.857
+United States,Mentor,Ohio,44060,Atlantic,41.667,-81.3436
+United States,Newark,Ohio,43055,Atlantic,40.0569,-82.4268
+United States,Parma,Ohio,44134,Atlantic,41.3907,-81.7119
+United States,Springfield,Ohio,45503,Atlantic,39.9228,-83.8092
+United States,Toledo,Ohio,43615,Atlantic,41.6499,-83.626
+United States,Troy,Ohio,45373,Atlantic,40.0372,-84.206
+United States,Broken Arrow,Oklahoma,74012,Interior,36.0559,-95.8681
+United States,Edmond,Oklahoma,73034,Interior,35.6534,-97.4822
+United States,Lawton,Oklahoma,73505,Interior,34.6071,-98.4163
+United States,Muskogee,Oklahoma,74403,Interior,35.7429,-95.3671
+United States,Norman,Oklahoma,73071,Interior,35.2175,-97.4449
+United States,Oklahoma City,Oklahoma,73120,Interior,35.5501,-97.5321
+United States,Tulsa,Oklahoma,74133,Interior,36.059,-95.9217
+United States,Eugene,Oregon,97405,Pacific,44.0503,-123.0873
+United States,Gresham,Oregon,97030,Pacific,45.5096,-122.5287
+United States,Hillsboro,Oregon,97123,Pacific,45.5211,-122.8752
+United States,Medford,Oregon,97504,Pacific,42.3323,-122.877
+United States,Portland,Oregon,97206,Pacific,45.5172,-122.643
+United States,Redmond,Oregon,97756,Pacific,44.2668,-121.1718
+United States,Salem,Oregon,97301,Pacific,44.938,-123.0281
+United States,Springfield,Oregon,97477,Pacific,44.05,-123.081
+United States,Tigard,Oregon,97224,Pacific,45.4429,-122.7813
+United States,Allentown,Pennsylvania,18103,Atlantic,40.6035,-75.4762
+United States,Altoona,Pennsylvania,16602,Atlantic,40.5163,-78.3985
+United States,Bethlehem,Pennsylvania,18018,Atlantic,40.6151,-75.3762
+United States,Chester,Pennsylvania,19013,Atlantic,39.8501,-75.3573
+United States,Lancaster,Pennsylvania,17602,Atlantic,40.0381,-76.3064
+United States,Philadelphia,Pennsylvania,19143,Atlantic,39.9574,-75.2255
+United States,Philadelphia,Pennsylvania,19140,Atlantic,40.0084,-75.1454
+United States,Philadelphia,Pennsylvania,19134,Atlantic,39.9859,-75.1243
+United States,Philadelphia,Pennsylvania,19120,Atlantic,40.0258,-75.1422
+United States,Reading,Pennsylvania,19601,Atlantic,40.3358,-75.9243
+United States,York,Pennsylvania,17403,Atlantic,39.9628,-76.7275
+United States,Cranston,Rhode Island,2920,Atlantic,,
+United States,Providence,Rhode Island,2908,Atlantic,,
+United States,Warwick,Rhode Island,2886,Atlantic,,
+United States,Woonsocket,Rhode Island,2895,Atlantic,,
+United States,Columbia,South Carolina,29203,Gulf,34.0011,-81.0276
+United States,Florence,South Carolina,29501,Gulf,34.1994,-79.7695
+United States,Mount Pleasant,South Carolina,29464,Gulf,32.7922,-79.9443
+United States,North Charleston,South Carolina,29406,Gulf,32.8576,-79.9859
+United States,Rock Hill,South Carolina,29730,Gulf,34.9232,-81.0282
+United States,Summerville,South Carolina,29483,Gulf,33.0257,-80.1705
+United States,Aberdeen,South Dakota,57401,Interior,45.4591,-98.492
+United States,Rapid City,South Dakota,57701,Interior,44.082049999999995,-103.2296
+United States,Sioux Falls,South Dakota,57103,Interior,43.5469,-96.7298
+United States,Bartlett,Tennessee,38134,Gulf,35.1429,-89.8937
+United States,Bristol,Tennessee,37620,Gulf,36.5931,-82.1851
+United States,Chattanooga,Tennessee,37421,Gulf,35.0379,-85.2929
+United States,Clarksville,Tennessee,37042,Gulf,36.5255,-87.3524
+United States,Columbia,Tennessee,38401,Gulf,35.6081,-87.0331
+United States,Franklin,Tennessee,37064,Gulf,35.9223,-86.8662
+United States,Hendersonville,Tennessee,37075,Gulf,36.1596,-86.7554
+United States,Jackson,Tennessee,38301,Gulf,35.6164,-88.8188
+United States,Johnson City,Tennessee,37604,Gulf,36.3216,-82.3549
+United States,Knoxville,Tennessee,37918,Gulf,35.9694,-83.9271
+United States,Lebanon,Tennessee,37087,Gulf,36.183049999999994,-86.5255
+United States,Memphis,Tennessee,38109,Gulf,35.108050000000006,-90.0416
+United States,Murfreesboro,Tennessee,37130,Gulf,36.1199,-86.7554
+United States,Nashville,Tennessee,37211,Gulf,36.1596,-86.7742
+United States,Smyrna,Tennessee,37167,Gulf,36.1199,-86.7554
+United States,Abilene,Texas,79605,Interior,32.4489,-99.7308
+United States,Allen,Texas,75002,Interior,33.0968,-96.6769
+United States,Amarillo,Texas,79109,Interior,35.2059,-101.8382
+United States,Arlington,Texas,76017,Interior,32.734,-97.2188
+United States,Austin,Texas,78745,Interior,30.2381,-97.7576
+United States,Baytown,Texas,77520,Interior,29.74185,-94.9722
+United States,Beaumont,Texas,77705,Interior,30.0382,-94.1015
+United States,Bedford,Texas,76021,Interior,32.8355,-97.2121
+United States,Brownsville,Texas,78521,Interior,25.9106,-97.5024
+United States,Bryan,Texas,77803,Interior,30.6731,-96.3659
+United States,Carrollton,Texas,75007,Interior,32.8695,-96.9095
+United States,Cedar Hill,Texas,75104,Interior,32.5928,-96.9597
+United States,College Station,Texas,77840,Interior,30.6204,-96.3449
+United States,Conroe,Texas,77301,Interior,30.3176,-95.4573
+United States,Coppell,Texas,75019,Interior,32.9296,-96.9996
+United States,Corpus Christi,Texas,78415,Interior,27.7911,-97.4002
+United States,Dallas,Texas,75220,Interior,32.8068,-96.86995
+United States,Dallas,Texas,75217,Interior,32.7688,-96.84525
+United States,Dallas,Texas,75081,Interior,32.9339,-96.7878
+United States,Deer Park,Texas,77536,Interior,29.7385,-95.3566
+United States,Edinburg,Texas,78539,Interior,26.2992,-98.1641
+United States,El Paso,Texas,79907,Interior,31.7507,-106.3449
+United States,Fort Worth,Texas,76106,Interior,32.7494,-97.3303
+United States,Frisco,Texas,75034,Interior,33.1002,-96.8798
+United States,Garland,Texas,75043,Interior,32.8051,-96.7812
+United States,Grand Prairie,Texas,75051,Interior,32.7417,-97.0004
+United States,Grapevine,Texas,76051,Interior,32.8355,-97.0998
+United States,Haltom City,Texas,76117,Interior,32.777,-97.2384
+United States,Harlingen,Texas,78550,Interior,26.1903,-97.6946
+United States,Houston,Texas,77095,Interior,29.7515,-95.6029
+United States,Houston,Texas,77036,Interior,29.7385,-95.5212
+United States,Houston,Texas,77070,Interior,29.9365,-95.523
+United States,Houston,Texas,77041,Interior,29.7515,-95.4478
+United States,Huntsville,Texas,77340,Interior,30.7235,-95.5493
+United States,Irving,Texas,75061,Interior,32.8156,-96.9486
+United States,Keller,Texas,76248,Interior,32.8579,-97.2384
+United States,La Porte,Texas,77571,Interior,29.7051,-95.123
+United States,Laredo,Texas,78041,Interior,27.508899999999997,-99.5023
+United States,League City,Texas,77573,Interior,29.5669,-95.1439
+United States,Lubbock,Texas,79424,Interior,33.5641,-101.9027
+United States,Mansfield,Texas,76063,Interior,32.6489,-97.142
+United States,Mcallen,Texas,78501,Interior,26.2022,-98.2272
+United States,Mesquite,Texas,75150,Interior,32.7962,-96.6417
+United States,Missouri City,Texas,77489,Interior,29.6954,-95.4784
+United States,Odessa,Texas,79762,Interior,31.8478,-102.372
+United States,Pasadena,Texas,77506,Interior,29.74525,-95.3638
+United States,Pearland,Texas,77581,Interior,29.716949999999997,-95.3638
+United States,Pharr,Texas,78577,Interior,26.1995,-98.2272
+United States,Plano,Texas,75023,Interior,33.0178,-96.7622
+United States,Port Arthur,Texas,77642,Interior,29.91485,-93.941
+United States,Richardson,Texas,75080,Interior,32.9491,-96.7317
+United States,Round Rock,Texas,78664,Interior,30.2727,-97.7421
+United States,San Angelo,Texas,76903,Interior,31.4431,-100.4765
+United States,San Antonio,Texas,78207,Interior,29.4278,-98.4894
+United States,San Marcos,Texas,78666,Interior,29.882,-97.9407
+United States,Texas City,Texas,77590,Interior,29.389,-94.8995
+United States,The Colony,Texas,75056,Interior,33.0236,-96.89
+United States,Tyler,Texas,75701,Interior,32.3485,-95.3028
+United States,Waco,Texas,76706,Interior,31.5554,-97.1382
+United States,Draper,Utah,84020,Pacific,40.7578,-111.8818
+United States,Layton,Utah,84041,Pacific,41.0348,-111.9327
+United States,Lehi,Utah,84043,Pacific,40.3843,-111.8459
+United States,Logan,Utah,84321,Pacific,41.7325,-111.8315
+United States,Murray,Utah,84107,Pacific,40.7578,-111.8885
+United States,Orem,Utah,84057,Pacific,40.2919,-111.6881
+United States,Pleasant Grove,Utah,84062,Pacific,40.36165,-111.73859999999999
+United States,Provo,Utah,84604,Pacific,40.2347,-111.6686
+United States,Salt Lake City,Utah,84106,Pacific,40.7578,-111.8818
+United States,West Jordan,Utah,84084,Pacific,40.6671,-111.8876
+United States,Burlington,Vermont,5401,Atlantic,,
+United States,Alexandria,Virginia,22304,Gulf,38.83195,-77.0989
+United States,Arlington,Virginia,22204,Gulf,38.8637,-77.0972
+United States,Charlottesville,Virginia,22901,Gulf,38.0336,-78.4916
+United States,Chesapeake,Virginia,23320,Gulf,36.8085,-76.23775
+United States,Hampton,Virginia,23666,Gulf,37.0355,-76.4109
+United States,Harrisonburg,Virginia,22801,Gulf,38.4503,-78.8689
+United States,Newport News,Virginia,23602,Gulf,37.1043,-76.5048
+United States,Richmond,Virginia,23223,Gulf,37.542,-77.434
+United States,Salem,Virginia,24153,Gulf,37.2704,-79.9444
+United States,Springfield,Virginia,22153,Gulf,38.7287,-77.21815
+United States,Suffolk,Virginia,23434,Gulf,36.7585,-76.5798
+United States,Virginia Beach,Virginia,23464,Gulf,36.8417,-76.2038
+United States,Waynesboro,Virginia,22980,Gulf,38.0661,-78.8904
+United States,Auburn,Washington,98002,Pacific,47.3043,-122.2277
+United States,Bellevue,Washington,98006,Pacific,47.6055,-122.2013
+United States,Bellingham,Washington,98226,Pacific,48.7578,-122.4726
+United States,Covington,Washington,98042,Pacific,47.3819,-122.233
+United States,Des Moines,Washington,98198,Pacific,47.43495,-122.3196
+United States,Edmonds,Washington,98026,Pacific,47.8048,-122.3179
+United States,Everett,Washington,98208,Pacific,47.9202,-122.265
+United States,Kent,Washington,98031,Pacific,47.3914,-122.2387
+United States,Longview,Washington,98632,Pacific,46.133,-122.9423
+United States,Marysville,Washington,98270,Pacific,48.0185,-122.1681
+United States,Olympia,Washington,98502,Pacific,47.0391,-122.8958
+United States,Pasco,Washington,99301,Pacific,46.2339,-119.0974
+United States,Redmond,Washington,98052,Pacific,47.668,-122.1498
+United States,Renton,Washington,98059,Pacific,47.4803,-122.2022
+United States,Seattle,Washington,98105,Pacific,47.6639,-122.3188
+United States,Seattle,Washington,98103,Pacific,47.64895,-122.3312
+United States,Seattle,Washington,98115,Pacific,47.61,-122.3312
+United States,Spokane,Washington,99207,Pacific,47.6576,-117.4176
+United States,Vancouver,Washington,98661,Pacific,45.6233,-122.6693
+United States,Wheeling,West Virginia,26003,Atlantic,40.0653,-80.719
+United States,Appleton,Wisconsin,54915,Interior,44.2563,-88.4018
+United States,Eau Claire,Wisconsin,54703,Interior,44.8071,-91.4951
+United States,Franklin,Wisconsin,53132,Interior,42.9459,-87.9984
+United States,Green Bay,Wisconsin,54302,Interior,44.5105,-88.0104
+United States,Kenosha,Wisconsin,53142,Interior,42.5805,-87.82565
+United States,La Crosse,Wisconsin,54601,Interior,43.8185,-91.2495
+United States,Madison,Wisconsin,53711,Interior,43.0716,-89.3882
+United States,Milwaukee,Wisconsin,53209,Interior,43.1159,-87.9643
+United States,Sheboygan,Wisconsin,53081,Interior,43.7523,-87.7137
+United States,Superior,Wisconsin,54880,Interior,46.63125,-92.0963
+United States,Waukesha,Wisconsin,53186,Interior,43.0098,-88.2272
+United States,Wausau,Wisconsin,54401,Interior,44.951,-89.6197
+United States,West Allis,Wisconsin,53214,Interior,43.0416,-87.9993
+United States,Cheyenne,Wyoming,82001,Pacific,41.1338,-104.8168

@@ -1,0 +1,656 @@
+Country/Region,City,State/Province,Postal Code,Region
+Canada,Calgary,Alberta,T2C,Pacific
+Canada,Calgary,Alberta,T1Y,Pacific
+Canada,Edmonton,Alberta,T5A,Pacific
+Canada,Vancouver,British Columbia,V6Z,Pacific
+Canada,Vancouver,British Columbia,V6G,Pacific
+Canada,Vancouver,British Columbia,V6B,Pacific
+Canada,Vancouver,British Columbia,V5K,Pacific
+Canada,Vancouver,British Columbia,V6E,Pacific
+Canada,Winnipeg,Manitoba,R0H,Interior
+Canada,Winnipeg,Manitoba,R3R,Interior
+Canada,Moncton,New Brunswick,E1A,Atlantic
+Canada,St. John's,Newfoundland and Labrador,A0A,Atlantic
+Canada,Halifax,Nova Scotia,B3H,Atlantic
+Canada,Toronto,Ontario,M7A,Atlantic
+Canada,Toronto,Ontario,M3C,Atlantic
+Canada,Toronto,Ontario,M5H,Atlantic
+Canada,Toronto,Ontario,M2N,Atlantic
+Canada,Charlottetown,Prince Edward Island,C0A,Atlantic
+Canada,Montreal,Quebec,H1A,Atlantic
+Canada,Montreal,Quebec,H1B,Atlantic
+Canada,Montreal,Quebec,H1C,Atlantic
+Canada,Quebec City,Quebec,G1B,Atlantic
+Canada,Regina,Saskatchewan,S0G,Pacific
+United States,Auburn,Alabama,36830,Gulf
+United States,Decatur,Alabama,35601,Gulf
+United States,Florence,Alabama,35630,Gulf
+United States,Hoover,Alabama,35244,Gulf
+United States,Huntsville,Alabama,35810,Gulf
+United States,Mobile,Alabama,36608,Gulf
+United States,Montgomery,Alabama,36116,Gulf
+United States,Tuscaloosa,Alabama,35401,Gulf
+United States,Avondale,Arizona,85323,Pacific
+United States,Bullhead City,Arizona,86442,Pacific
+United States,Chandler,Arizona,85224,Pacific
+United States,Gilbert,Arizona,85234,Pacific
+United States,Glendale,Arizona,85301,Pacific
+United States,Mesa,Arizona,85204,Pacific
+United States,Peoria,Arizona,85345,Pacific
+United States,Phoenix,Arizona,85023,Pacific
+United States,Scottsdale,Arizona,85254,Pacific
+United States,Sierra Vista,Arizona,85635,Pacific
+United States,Tempe,Arizona,85281,Pacific
+United States,Tucson,Arizona,85705,Pacific
+United States,Yuma,Arizona,85364,Pacific
+United States,Conway,Arkansas,72032,Gulf
+United States,Fayetteville,Arkansas,72701,Gulf
+United States,Hot Springs,Arkansas,71901,Gulf
+United States,Jonesboro,Arkansas,72401,Gulf
+United States,Little Rock,Arkansas,72209,Gulf
+United States,Pine Bluff,Arkansas,71603,Gulf
+United States,Rogers,Arkansas,72756,Gulf
+United States,Springdale,Arkansas,72762,Gulf
+United States,Texarkana,Arkansas,71854,Gulf
+United States,Anaheim,California,92804,Pacific
+United States,Antioch,California,94509,Pacific
+United States,Apple Valley,California,92307,Pacific
+United States,Bakersfield,California,93309,Pacific
+United States,Brentwood,California,94513,Pacific
+United States,Burbank,California,91505,Pacific
+United States,Camarillo,California,93010,Pacific
+United States,Chico,California,95928,Pacific
+United States,Chula Vista,California,91911,Pacific
+United States,Citrus Heights,California,95610,Pacific
+United States,Coachella,California,92236,Pacific
+United States,Concord,California,94521,Pacific
+United States,Costa Mesa,California,92627,Pacific
+United States,Danville,California,94526,Pacific
+United States,Davis,California,95616,Pacific
+United States,Dublin,California,94568,Pacific
+United States,El Cajon,California,92020,Pacific
+United States,Encinitas,California,92024,Pacific
+United States,Escondido,California,92025,Pacific
+United States,Fairfield,California,94533,Pacific
+United States,Fresno,California,93727,Pacific
+United States,Hesperia,California,92345,Pacific
+United States,Huntington Beach,California,92646,Pacific
+United States,Inglewood,California,90301,Pacific
+United States,La Mesa,California,91941,Pacific
+United States,La Quinta,California,92253,Pacific
+United States,Laguna Niguel,California,92677,Pacific
+United States,Lake Elsinore,California,92530,Pacific
+United States,Lake Forest,California,92630,Pacific
+United States,Lakewood,California,90712,Pacific
+United States,Lancaster,California,93534,Pacific
+United States,Lodi,California,95240,Pacific
+United States,Long Beach,California,90805,Pacific
+United States,Los Angeles,California,90049,Pacific
+United States,Los Angeles,California,90036,Pacific
+United States,Los Angeles,California,90008,Pacific
+United States,Los Angeles,California,90004,Pacific
+United States,Los Angeles,California,90045,Pacific
+United States,Los Angeles,California,90032,Pacific
+United States,Manteca,California,95336,Pacific
+United States,Mission Viejo,California,92691,Pacific
+United States,Modesto,California,95351,Pacific
+United States,Montebello,California,90640,Pacific
+United States,Moreno Valley,California,92553,Pacific
+United States,Morgan Hill,California,95037,Pacific
+United States,Murrieta,California,92563,Pacific
+United States,Oakland,California,94601,Pacific
+United States,Oceanside,California,92054,Pacific
+United States,Ontario,California,91761,Pacific
+United States,Oxnard,California,93030,Pacific
+United States,Pasadena,California,91104,Pacific
+United States,Pico Rivera,California,90660,Pacific
+United States,Pomona,California,91767,Pacific
+United States,Rancho Cucamonga,California,91730,Pacific
+United States,Redding,California,96003,Pacific
+United States,Redlands,California,92374,Pacific
+United States,Redondo Beach,California,90278,Pacific
+United States,Redwood City,California,94061,Pacific
+United States,Riverside,California,92503,Pacific
+United States,Roseville,California,95661,Pacific
+United States,Sacramento,California,95823,Pacific
+United States,Salinas,California,93905,Pacific
+United States,San Bernardino,California,92404,Pacific
+United States,San Clemente,California,92672,Pacific
+United States,San Diego,California,92037,Pacific
+United States,San Diego,California,92024,Pacific
+United States,San Diego,California,92105,Pacific
+United States,San Francisco,California,94109,Pacific
+United States,San Francisco,California,94110,Pacific
+United States,San Francisco,California,94122,Pacific
+United States,San Gabriel,California,91776,Pacific
+United States,San Jose,California,95123,Pacific
+United States,San Luis Obispo,California,93405,Pacific
+United States,San Mateo,California,94403,Pacific
+United States,Santa Ana,California,92704,Pacific
+United States,Santa Barbara,California,93101,Pacific
+United States,Santa Clara,California,95051,Pacific
+United States,Santa Maria,California,93454,Pacific
+United States,Stockton,California,95207,Pacific
+United States,Sunnyvale,California,94086,Pacific
+United States,Temecula,California,92592,Pacific
+United States,Thousand Oaks,California,91360,Pacific
+United States,Torrance,California,90503,Pacific
+United States,Vacaville,California,95687,Pacific
+United States,Vallejo,California,94591,Pacific
+United States,Visalia,California,93277,Pacific
+United States,Westminster,California,92683,Pacific
+United States,Whittier,California,90604,Pacific
+United States,Woodland,California,95695,Pacific
+United States,Yucaipa,California,92399,Pacific
+United States,Arvada,Colorado,80004,Pacific
+United States,Aurora,Colorado,80013,Pacific
+United States,Broomfield,Colorado,80020,Pacific
+United States,Colorado Springs,Colorado,80906,Pacific
+United States,Commerce City,Colorado,80022,Pacific
+United States,Denver,Colorado,80219,Pacific
+United States,Englewood,Colorado,80112,Pacific
+United States,Fort Collins,Colorado,80525,Pacific
+United States,Greeley,Colorado,80634,Pacific
+United States,Littleton,Colorado,80122,Pacific
+United States,Longmont,Colorado,80501,Pacific
+United States,Louisville,Colorado,80027,Pacific
+United States,Loveland,Colorado,80538,Pacific
+United States,Parker,Colorado,80134,Pacific
+United States,Pueblo,Colorado,81001,Pacific
+United States,Thornton,Colorado,80229,Pacific
+United States,Bristol,Connecticut,6010,Atlantic
+United States,Danbury,Connecticut,6810,Atlantic
+United States,Fairfield,Connecticut,6824,Atlantic
+United States,Manchester,Connecticut,6040,Atlantic
+United States,Meriden,Connecticut,6450,Atlantic
+United States,Middletown,Connecticut,6457,Atlantic
+United States,Milford,Connecticut,6460,Atlantic
+United States,Norwich,Connecticut,6360,Atlantic
+United States,Shelton,Connecticut,6484,Atlantic
+United States,Waterbury,Connecticut,6708,Atlantic
+United States,Dover,Delaware,19901,Atlantic
+United States,Newark,Delaware,19711,Atlantic
+United States,Wilmington,Delaware,19805,Atlantic
+United States,Washington,District of Columbia,20016,Atlantic
+United States,Apopka,Florida,32712,Gulf
+United States,Boca Raton,Florida,33433,Gulf
+United States,Boynton Beach,Florida,33437,Gulf
+United States,Coral Gables,Florida,33134,Gulf
+United States,Coral Springs,Florida,33065,Gulf
+United States,Daytona Beach,Florida,32114,Gulf
+United States,Delray Beach,Florida,33445,Gulf
+United States,Deltona,Florida,32725,Gulf
+United States,Fort Lauderdale,Florida,33311,Gulf
+United States,Hialeah,Florida,33012,Gulf
+United States,Hollywood,Florida,33021,Gulf
+United States,Homestead,Florida,33030,Gulf
+United States,Jacksonville,Florida,32216,Gulf
+United States,Jupiter,Florida,33458,Gulf
+United States,Kissimmee,Florida,34741,Gulf
+United States,Lakeland,Florida,33801,Gulf
+United States,Margate,Florida,33063,Gulf
+United States,Melbourne,Florida,32935,Gulf
+United States,Miami,Florida,33180,Gulf
+United States,Miami,Florida,33178,Gulf
+United States,Miami,Florida,33142,Gulf
+United States,Miramar,Florida,33023,Gulf
+United States,North Miami,Florida,33161,Gulf
+United States,Orlando,Florida,32839,Gulf
+United States,Ormond Beach,Florida,32174,Gulf
+United States,Palm Coast,Florida,32137,Gulf
+United States,Pembroke Pines,Florida,33024,Gulf
+United States,Pensacola,Florida,32503,Gulf
+United States,Plantation,Florida,33317,Gulf
+United States,Pompano Beach,Florida,33068,Gulf
+United States,Port Orange,Florida,32127,Gulf
+United States,Port Saint Lucie,Florida,34952,Gulf
+United States,Saint Petersburg,Florida,33710,Gulf
+United States,Sanford,Florida,32771,Gulf
+United States,Tallahassee,Florida,32303,Gulf
+United States,Tamarac,Florida,33319,Gulf
+United States,Tampa,Florida,33614,Gulf
+United States,West Palm Beach,Florida,33407,Gulf
+United States,Athens,Georgia,30605,Gulf
+United States,Atlanta,Georgia,30318,Gulf
+United States,Columbus,Georgia,31907,Gulf
+United States,East Point,Georgia,30344,Gulf
+United States,Macon,Georgia,31204,Gulf
+United States,Marietta,Georgia,30062,Gulf
+United States,Roswell,Georgia,30076,Gulf
+United States,Sandy Springs,Georgia,30328,Gulf
+United States,Smyrna,Georgia,30080,Gulf
+United States,Warner Robins,Georgia,31088,Gulf
+United States,Woodstock,Georgia,30188,Gulf
+United States,Boise,Idaho,83704,Pacific
+United States,Caldwell,Idaho,83605,Pacific
+United States,Lewiston,Idaho,83501,Pacific
+United States,Meridian,Idaho,83642,Pacific
+United States,Pocatello,Idaho,83201,Pacific
+United States,Twin Falls,Idaho,83301,Pacific
+United States,Arlington Heights,Illinois,60004,Interior
+United States,Aurora,Illinois,60505,Interior
+United States,Bloomington,Illinois,61701,Interior
+United States,Bolingbrook,Illinois,60440,Interior
+United States,Buffalo Grove,Illinois,60089,Interior
+United States,Carol Stream,Illinois,60188,Interior
+United States,Champaign,Illinois,61821,Interior
+United States,Chicago,Illinois,60653,Interior
+United States,Chicago,Illinois,60610,Interior
+United States,Chicago,Illinois,60623,Interior
+United States,Danville,Illinois,61832,Interior
+United States,Decatur,Illinois,62521,Interior
+United States,Des Plaines,Illinois,60016,Interior
+United States,Elmhurst,Illinois,60126,Interior
+United States,Evanston,Illinois,60201,Interior
+United States,Frankfort,Illinois,60423,Interior
+United States,Freeport,Illinois,61032,Interior
+United States,Glenview,Illinois,60025,Interior
+United States,Highland Park,Illinois,60035,Interior
+United States,Naperville,Illinois,60540,Interior
+United States,Normal,Illinois,61761,Interior
+United States,Oak Park,Illinois,60302,Interior
+United States,Orland Park,Illinois,60462,Interior
+United States,Oswego,Illinois,60543,Interior
+United States,Palatine,Illinois,60067,Interior
+United States,Park Ridge,Illinois,60068,Interior
+United States,Peoria,Illinois,61604,Interior
+United States,Quincy,Illinois,62301,Interior
+United States,Rockford,Illinois,61107,Interior
+United States,Romeoville,Illinois,60441,Interior
+United States,Saint Charles,Illinois,60174,Interior
+United States,Skokie,Illinois,60076,Interior
+United States,Tinley Park,Illinois,60477,Interior
+United States,Wheeling,Illinois,60090,Interior
+United States,Woodstock,Illinois,60098,Interior
+United States,Bloomington,Indiana,47401,Interior
+United States,Columbus,Indiana,47201,Interior
+United States,Elkhart,Indiana,46514,Interior
+United States,Greenwood,Indiana,46142,Interior
+United States,Indianapolis,Indiana,46203,Interior
+United States,La Porte,Indiana,46350,Interior
+United States,Lafayette,Indiana,47905,Interior
+United States,Lawrence,Indiana,46226,Interior
+United States,Mishawaka,Indiana,46544,Interior
+United States,New Albany,Indiana,47150,Interior
+United States,New Castle,Indiana,47362,Interior
+United States,Noblesville,Indiana,46060,Interior
+United States,Portage,Indiana,46368,Interior
+United States,Richmond,Indiana,47374,Interior
+United States,South Bend,Indiana,46614,Interior
+United States,Burlington,Iowa,52601,Interior
+United States,Cedar Rapids,Iowa,52402,Interior
+United States,Des Moines,Iowa,50315,Interior
+United States,Dubuque,Iowa,52001,Interior
+United States,Iowa City,Iowa,52240,Interior
+United States,Marion,Iowa,52302,Interior
+United States,Urbandale,Iowa,50322,Interior
+United States,Waterloo,Iowa,50701,Interior
+United States,Garden City,Kansas,67846,Interior
+United States,Manhattan,Kansas,66502,Interior
+United States,Olathe,Kansas,66062,Interior
+United States,Overland Park,Kansas,66212,Interior
+United States,Wichita,Kansas,67212,Interior
+United States,Bowling Green,Kentucky,42104,Gulf
+United States,Florence,Kentucky,41042,Gulf
+United States,Georgetown,Kentucky,40324,Gulf
+United States,Henderson,Kentucky,42420,Gulf
+United States,Louisville,Kentucky,40214,Gulf
+United States,Murray,Kentucky,42071,Gulf
+United States,Owensboro,Kentucky,42301,Gulf
+United States,Richmond,Kentucky,40475,Gulf
+United States,Bossier City,Louisiana,71111,Gulf
+United States,Kenner,Louisiana,70065,Gulf
+United States,Lafayette,Louisiana,70506,Gulf
+United States,Lake Charles,Louisiana,70601,Gulf
+United States,Monroe,Louisiana,71203,Gulf
+United States,Bangor,Maine,4401,Atlantic
+United States,Lewiston,Maine,4240,Atlantic
+United States,Baltimore,Maryland,21215,Atlantic
+United States,Clinton,Maryland,20735,Atlantic
+United States,Columbia,Maryland,21044,Atlantic
+United States,Gaithersburg,Maryland,20877,Atlantic
+United States,Hagerstown,Maryland,21740,Atlantic
+United States,Laurel,Maryland,20707,Atlantic
+United States,Rockville,Maryland,20852,Atlantic
+United States,Andover,Massachusetts,1810,Atlantic
+United States,Beverly,Massachusetts,1915,Atlantic
+United States,Cambridge,Massachusetts,2138,Atlantic
+United States,Everett,Massachusetts,2149,Atlantic
+United States,Franklin,Massachusetts,2038,Atlantic
+United States,Holyoke,Massachusetts,1040,Atlantic
+United States,Lawrence,Massachusetts,1841,Atlantic
+United States,Leominster,Massachusetts,1453,Atlantic
+United States,Lowell,Massachusetts,1852,Atlantic
+United States,Malden,Massachusetts,2148,Atlantic
+United States,Marlborough,Massachusetts,1752,Atlantic
+United States,New Bedford,Massachusetts,2740,Atlantic
+United States,Quincy,Massachusetts,2169,Atlantic
+United States,Revere,Massachusetts,2151,Atlantic
+United States,Ann Arbor,Michigan,48104,Interior
+United States,Canton,Michigan,48187,Interior
+United States,Dearborn,Michigan,48126,Interior
+United States,Dearborn Heights,Michigan,48127,Interior
+United States,Detroit,Michigan,48234,Interior
+United States,Detroit,Michigan,48205,Interior
+United States,Detroit,Michigan,48227,Interior
+United States,Grand Rapids,Michigan,49505,Interior
+United States,Holland,Michigan,49423,Interior
+United States,Jackson,Michigan,49201,Interior
+United States,Lansing,Michigan,48911,Interior
+United States,Lincoln Park,Michigan,48146,Interior
+United States,Midland,Michigan,48640,Interior
+United States,Mount Pleasant,Michigan,48858,Interior
+United States,Oak Park,Michigan,48237,Interior
+United States,Rochester Hills,Michigan,48307,Interior
+United States,Roseville,Michigan,48066,Interior
+United States,Royal Oak,Michigan,48073,Interior
+United States,Saginaw,Michigan,48601,Interior
+United States,Sterling Heights,Michigan,48310,Interior
+United States,Taylor,Michigan,48180,Interior
+United States,Trenton,Michigan,48183,Interior
+United States,Westland,Michigan,48185,Interior
+United States,Apple Valley,Minnesota,55124,Interior
+United States,Coon Rapids,Minnesota,55433,Interior
+United States,Cottage Grove,Minnesota,55016,Interior
+United States,Eagan,Minnesota,55122,Interior
+United States,Lakeville,Minnesota,55044,Interior
+United States,Maple Grove,Minnesota,55369,Interior
+United States,Minneapolis,Minnesota,55407,Interior
+United States,Moorhead,Minnesota,56560,Interior
+United States,Rochester,Minnesota,55901,Interior
+United States,Roseville,Minnesota,55113,Interior
+United States,Saint Cloud,Minnesota,56301,Interior
+United States,Saint Paul,Minnesota,55106,Interior
+United States,Woodbury,Minnesota,55125,Interior
+United States,Gulfport,Mississippi,39503,Gulf
+United States,Hattiesburg,Mississippi,39401,Gulf
+United States,Jackson,Mississippi,39212,Gulf
+United States,Southaven,Mississippi,38671,Gulf
+United States,Columbia,Missouri,65203,Interior
+United States,Gladstone,Missouri,64118,Interior
+United States,Independence,Missouri,64055,Interior
+United States,Jefferson City,Missouri,65109,Interior
+United States,Kirkwood,Missouri,63122,Interior
+United States,Saint Charles,Missouri,63301,Interior
+United States,Saint Louis,Missouri,63116,Interior
+United States,Saint Peters,Missouri,63376,Interior
+United States,Springfield,Missouri,65807,Interior
+United States,Billings,Montana,59102,Pacific
+United States,Bozeman,Montana,59715,Pacific
+United States,Great Falls,Montana,59405,Pacific
+United States,Helena,Montana,59601,Pacific
+United States,Missoula,Montana,59801,Pacific
+United States,Fremont,Nebraska,68025,Interior
+United States,Grand Island,Nebraska,68801,Interior
+United States,Norfolk,Nebraska,68701,Interior
+United States,Omaha,Nebraska,68104,Interior
+United States,Henderson,Nevada,89015,Pacific
+United States,Las Vegas,Nevada,89115,Pacific
+United States,North Las Vegas,Nevada,89031,Pacific
+United States,Reno,Nevada,89502,Pacific
+United States,Sparks,Nevada,89431,Pacific
+United States,Concord,New Hampshire,3301,Atlantic
+United States,Dover,New Hampshire,3820,Atlantic
+United States,Nashua,New Hampshire,3060,Atlantic
+United States,Atlantic City,New Jersey,8401,Atlantic
+United States,Bayonne,New Jersey,7002,Atlantic
+United States,Belleville,New Jersey,7109,Atlantic
+United States,Bridgeton,New Jersey,8302,Atlantic
+United States,Clifton,New Jersey,7011,Atlantic
+United States,East Orange,New Jersey,7017,Atlantic
+United States,Hackensack,New Jersey,7601,Atlantic
+United States,Lakewood,New Jersey,8701,Atlantic
+United States,Linden,New Jersey,7036,Atlantic
+United States,Morristown,New Jersey,7960,Atlantic
+United States,New Brunswick,New Jersey,8901,Atlantic
+United States,Orange,New Jersey,7050,Atlantic
+United States,Passaic,New Jersey,7055,Atlantic
+United States,Paterson,New Jersey,7501,Atlantic
+United States,Perth Amboy,New Jersey,8861,Atlantic
+United States,Plainfield,New Jersey,7060,Atlantic
+United States,Vineland,New Jersey,8360,Atlantic
+United States,Westfield,New Jersey,7090,Atlantic
+United States,Albuquerque,New Mexico,87105,Pacific
+United States,Carlsbad,New Mexico,88220,Pacific
+United States,Clovis,New Mexico,88101,Pacific
+United States,Farmington,New Mexico,87401,Pacific
+United States,Las Cruces,New Mexico,88001,Pacific
+United States,Rio Rancho,New Mexico,87124,Pacific
+United States,Santa Fe,New Mexico,87505,Pacific
+United States,Auburn,New York,13021,Atlantic
+United States,Buffalo,New York,14215,Atlantic
+United States,Freeport,New York,11520,Atlantic
+United States,Hempstead,New York,11550,Atlantic
+United States,Jamestown,New York,14701,Atlantic
+United States,Lindenhurst,New York,11757,Atlantic
+United States,Long Beach,New York,11561,Atlantic
+United States,Mount Vernon,New York,10550,Atlantic
+United States,New Rochelle,New York,10801,Atlantic
+United States,New York City,New York,10024,Atlantic
+United States,New York City,New York,10035,Atlantic
+United States,New York City,New York,10009,Atlantic
+United States,New York City,New York,10011,Atlantic
+United States,Niagara Falls,New York,14304,Atlantic
+United States,Oceanside,New York,11572,Atlantic
+United States,Rochester,New York,14609,Atlantic
+United States,Rome,New York,13440,Atlantic
+United States,Troy,New York,12180,Atlantic
+United States,Utica,New York,13501,Atlantic
+United States,Watertown,New York,13601,Atlantic
+United States,Yonkers,New York,10701,Atlantic
+United States,Asheville,North Carolina,28806,Gulf
+United States,Burlington,North Carolina,27217,Gulf
+United States,Cary,North Carolina,27511,Gulf
+United States,Chapel Hill,North Carolina,27514,Gulf
+United States,Charlotte,North Carolina,28205,Gulf
+United States,Concord,North Carolina,28027,Gulf
+United States,Durham,North Carolina,27707,Gulf
+United States,Fayetteville,North Carolina,28314,Gulf
+United States,Gastonia,North Carolina,28052,Gulf
+United States,Goldsboro,North Carolina,27534,Gulf
+United States,Greensboro,North Carolina,27405,Gulf
+United States,Greenville,North Carolina,27834,Gulf
+United States,Hickory,North Carolina,28601,Gulf
+United States,Jacksonville,North Carolina,28540,Gulf
+United States,Monroe,North Carolina,28110,Gulf
+United States,Raleigh,North Carolina,27604,Gulf
+United States,Thomasville,North Carolina,27360,Gulf
+United States,Wilmington,North Carolina,28403,Gulf
+United States,Wilson,North Carolina,27893,Gulf
+United States,Fargo,North Dakota,58103,Interior
+United States,Akron,Ohio,44312,Atlantic
+United States,Bowling Green,Ohio,43402,Atlantic
+United States,Cincinnati,Ohio,45231,Atlantic
+United States,Cleveland,Ohio,44105,Atlantic
+United States,Columbus,Ohio,43229,Atlantic
+United States,Cuyahoga Falls,Ohio,44221,Atlantic
+United States,Dublin,Ohio,43017,Atlantic
+United States,Elyria,Ohio,44035,Atlantic
+United States,Fairfield,Ohio,45014,Atlantic
+United States,Grove City,Ohio,43123,Atlantic
+United States,Hamilton,Ohio,45011,Atlantic
+United States,Kent,Ohio,44240,Atlantic
+United States,Lakewood,Ohio,44107,Atlantic
+United States,Lancaster,Ohio,43130,Atlantic
+United States,Lorain,Ohio,44052,Atlantic
+United States,Marion,Ohio,43302,Atlantic
+United States,Mason,Ohio,45040,Atlantic
+United States,Medina,Ohio,44256,Atlantic
+United States,Mentor,Ohio,44060,Atlantic
+United States,Newark,Ohio,43055,Atlantic
+United States,Parma,Ohio,44134,Atlantic
+United States,Springfield,Ohio,45503,Atlantic
+United States,Toledo,Ohio,43615,Atlantic
+United States,Troy,Ohio,45373,Atlantic
+United States,Broken Arrow,Oklahoma,74012,Interior
+United States,Edmond,Oklahoma,73034,Interior
+United States,Lawton,Oklahoma,73505,Interior
+United States,Muskogee,Oklahoma,74403,Interior
+United States,Norman,Oklahoma,73071,Interior
+United States,Oklahoma City,Oklahoma,73120,Interior
+United States,Tulsa,Oklahoma,74133,Interior
+United States,Eugene,Oregon,97405,Pacific
+United States,Gresham,Oregon,97030,Pacific
+United States,Hillsboro,Oregon,97123,Pacific
+United States,Medford,Oregon,97504,Pacific
+United States,Portland,Oregon,97206,Pacific
+United States,Redmond,Oregon,97756,Pacific
+United States,Salem,Oregon,97301,Pacific
+United States,Springfield,Oregon,97477,Pacific
+United States,Tigard,Oregon,97224,Pacific
+United States,Allentown,Pennsylvania,18103,Atlantic
+United States,Altoona,Pennsylvania,16602,Atlantic
+United States,Bethlehem,Pennsylvania,18018,Atlantic
+United States,Chester,Pennsylvania,19013,Atlantic
+United States,Lancaster,Pennsylvania,17602,Atlantic
+United States,Philadelphia,Pennsylvania,19143,Atlantic
+United States,Philadelphia,Pennsylvania,19140,Atlantic
+United States,Philadelphia,Pennsylvania,19134,Atlantic
+United States,Philadelphia,Pennsylvania,19120,Atlantic
+United States,Reading,Pennsylvania,19601,Atlantic
+United States,York,Pennsylvania,17403,Atlantic
+United States,Cranston,Rhode Island,2920,Atlantic
+United States,Providence,Rhode Island,2908,Atlantic
+United States,Warwick,Rhode Island,2886,Atlantic
+United States,Woonsocket,Rhode Island,2895,Atlantic
+United States,Columbia,South Carolina,29203,Gulf
+United States,Florence,South Carolina,29501,Gulf
+United States,Mount Pleasant,South Carolina,29464,Gulf
+United States,North Charleston,South Carolina,29406,Gulf
+United States,Rock Hill,South Carolina,29730,Gulf
+United States,Summerville,South Carolina,29483,Gulf
+United States,Aberdeen,South Dakota,57401,Interior
+United States,Rapid City,South Dakota,57701,Interior
+United States,Sioux Falls,South Dakota,57103,Interior
+United States,Bartlett,Tennessee,38134,Gulf
+United States,Bristol,Tennessee,37620,Gulf
+United States,Chattanooga,Tennessee,37421,Gulf
+United States,Clarksville,Tennessee,37042,Gulf
+United States,Columbia,Tennessee,38401,Gulf
+United States,Franklin,Tennessee,37064,Gulf
+United States,Hendersonville,Tennessee,37075,Gulf
+United States,Jackson,Tennessee,38301,Gulf
+United States,Johnson City,Tennessee,37604,Gulf
+United States,Knoxville,Tennessee,37918,Gulf
+United States,Lebanon,Tennessee,37087,Gulf
+United States,Memphis,Tennessee,38109,Gulf
+United States,Murfreesboro,Tennessee,37130,Gulf
+United States,Nashville,Tennessee,37211,Gulf
+United States,Smyrna,Tennessee,37167,Gulf
+United States,Abilene,Texas,79605,Interior
+United States,Allen,Texas,75002,Interior
+United States,Amarillo,Texas,79109,Interior
+United States,Arlington,Texas,76017,Interior
+United States,Austin,Texas,78745,Interior
+United States,Baytown,Texas,77520,Interior
+United States,Beaumont,Texas,77705,Interior
+United States,Bedford,Texas,76021,Interior
+United States,Brownsville,Texas,78521,Interior
+United States,Bryan,Texas,77803,Interior
+United States,Carrollton,Texas,75007,Interior
+United States,Cedar Hill,Texas,75104,Interior
+United States,College Station,Texas,77840,Interior
+United States,Conroe,Texas,77301,Interior
+United States,Coppell,Texas,75019,Interior
+United States,Corpus Christi,Texas,78415,Interior
+United States,Dallas,Texas,75220,Interior
+United States,Dallas,Texas,75217,Interior
+United States,Dallas,Texas,75081,Interior
+United States,Deer Park,Texas,77536,Interior
+United States,Edinburg,Texas,78539,Interior
+United States,El Paso,Texas,79907,Interior
+United States,Fort Worth,Texas,76106,Interior
+United States,Frisco,Texas,75034,Interior
+United States,Garland,Texas,75043,Interior
+United States,Grand Prairie,Texas,75051,Interior
+United States,Grapevine,Texas,76051,Interior
+United States,Haltom City,Texas,76117,Interior
+United States,Harlingen,Texas,78550,Interior
+United States,Houston,Texas,77095,Interior
+United States,Houston,Texas,77036,Interior
+United States,Houston,Texas,77070,Interior
+United States,Houston,Texas,77041,Interior
+United States,Huntsville,Texas,77340,Interior
+United States,Irving,Texas,75061,Interior
+United States,Keller,Texas,76248,Interior
+United States,La Porte,Texas,77571,Interior
+United States,Laredo,Texas,78041,Interior
+United States,League City,Texas,77573,Interior
+United States,Lubbock,Texas,79424,Interior
+United States,Mansfield,Texas,76063,Interior
+United States,Mcallen,Texas,78501,Interior
+United States,Mesquite,Texas,75150,Interior
+United States,Missouri City,Texas,77489,Interior
+United States,Odessa,Texas,79762,Interior
+United States,Pasadena,Texas,77506,Interior
+United States,Pearland,Texas,77581,Interior
+United States,Pharr,Texas,78577,Interior
+United States,Plano,Texas,75023,Interior
+United States,Port Arthur,Texas,77642,Interior
+United States,Richardson,Texas,75080,Interior
+United States,Round Rock,Texas,78664,Interior
+United States,San Angelo,Texas,76903,Interior
+United States,San Antonio,Texas,78207,Interior
+United States,San Marcos,Texas,78666,Interior
+United States,Texas City,Texas,77590,Interior
+United States,The Colony,Texas,75056,Interior
+United States,Tyler,Texas,75701,Interior
+United States,Waco,Texas,76706,Interior
+United States,Draper,Utah,84020,Pacific
+United States,Layton,Utah,84041,Pacific
+United States,Lehi,Utah,84043,Pacific
+United States,Logan,Utah,84321,Pacific
+United States,Murray,Utah,84107,Pacific
+United States,Orem,Utah,84057,Pacific
+United States,Pleasant Grove,Utah,84062,Pacific
+United States,Provo,Utah,84604,Pacific
+United States,Salt Lake City,Utah,84106,Pacific
+United States,West Jordan,Utah,84084,Pacific
+United States,Burlington,Vermont,5401,Atlantic
+United States,Alexandria,Virginia,22304,Gulf
+United States,Arlington,Virginia,22204,Gulf
+United States,Charlottesville,Virginia,22901,Gulf
+United States,Chesapeake,Virginia,23320,Gulf
+United States,Hampton,Virginia,23666,Gulf
+United States,Harrisonburg,Virginia,22801,Gulf
+United States,Newport News,Virginia,23602,Gulf
+United States,Richmond,Virginia,23223,Gulf
+United States,Salem,Virginia,24153,Gulf
+United States,Springfield,Virginia,22153,Gulf
+United States,Suffolk,Virginia,23434,Gulf
+United States,Virginia Beach,Virginia,23464,Gulf
+United States,Waynesboro,Virginia,22980,Gulf
+United States,Auburn,Washington,98002,Pacific
+United States,Bellevue,Washington,98006,Pacific
+United States,Bellingham,Washington,98226,Pacific
+United States,Covington,Washington,98042,Pacific
+United States,Des Moines,Washington,98198,Pacific
+United States,Edmonds,Washington,98026,Pacific
+United States,Everett,Washington,98208,Pacific
+United States,Kent,Washington,98031,Pacific
+United States,Longview,Washington,98632,Pacific
+United States,Marysville,Washington,98270,Pacific
+United States,Olympia,Washington,98502,Pacific
+United States,Pasco,Washington,99301,Pacific
+United States,Redmond,Washington,98052,Pacific
+United States,Renton,Washington,98059,Pacific
+United States,Seattle,Washington,98105,Pacific
+United States,Seattle,Washington,98103,Pacific
+United States,Seattle,Washington,98115,Pacific
+United States,Spokane,Washington,99207,Pacific
+United States,Vancouver,Washington,98661,Pacific
+United States,Wheeling,West Virginia,26003,Atlantic
+United States,Appleton,Wisconsin,54915,Interior
+United States,Eau Claire,Wisconsin,54703,Interior
+United States,Franklin,Wisconsin,53132,Interior
+United States,Green Bay,Wisconsin,54302,Interior
+United States,Kenosha,Wisconsin,53142,Interior
+United States,La Crosse,Wisconsin,54601,Interior
+United States,Madison,Wisconsin,53711,Interior
+United States,Milwaukee,Wisconsin,53209,Interior
+United States,Sheboygan,Wisconsin,53081,Interior
+United States,Superior,Wisconsin,54880,Interior
+United States,Waukesha,Wisconsin,53186,Interior
+United States,Wausau,Wisconsin,54401,Interior
+United States,West Allis,Wisconsin,53214,Interior
+United States,Cheyenne,Wyoming,82001,Pacific

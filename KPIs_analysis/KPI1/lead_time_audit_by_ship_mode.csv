@@ -1,0 +1,5 @@
+Ship Mode,Order_Rows,Valid_Lead_Times,Median_Lead_Time,Mean_Lead_Time,Negative_Lead_Times,Over_365_Days
+First Class,1548,1548,1272.0,1338.2758397932816,0,1548
+Same Day,547,547,1269.0,1333.4424131627056,0,547
+Second Class,1979,1979,1273.0,1323.845376452754,0,1979
+Standard Class,6120,6120,1274.0,1314.3346405228758,0,6120

@@ -1,0 +1,32 @@
+{
+    "selected_model": "Gradient Boosting",
+    "target": "Lead Time",
+    "features": [
+        "Product Name",
+        "Current Factory",
+        "Region",
+        "Ship Mode",
+        "Units",
+        "Order Year",
+        "Order Month"
+    ],
+    "categorical_features": [
+        "Product Name",
+        "Current Factory",
+        "Region",
+        "Ship Mode"
+    ],
+    "numeric_features": [
+        "Units",
+        "Order Year",
+        "Order Month"
+    ],
+    "training_rows": 8155,
+    "test_rows": 2039,
+    "dataset_rows_used": 10194,
+    "unique_products": 15,
+    "unique_factories": 5,
+    "products_observed_at_multiple_factories": 0,
+    "selection_metric": "lowest holdout RMSE",
+    "note": "Holdout metrics measure predictions on the random test split. They do not by themselves validate predictions for a product at a factory where it has not been observed."
+}

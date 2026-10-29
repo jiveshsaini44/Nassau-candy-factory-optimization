@@ -1,0 +1,16 @@
+Product Name,Current_Factory,Alternatives_Evaluated,Best_Alternative,Best_Overall_Score,Best_Distance_Reduction_km,Best_Estimated_Profit_Impact,Positive_Impact_Alternatives,Negative_Impact_Alternatives,Risk Assessment
+Everlasting Gobstopper,Secret_Factory,4,The_Other_Factory,45.957527896684724,274.4422216894211,35.67748881962476,1,3,Unknown - validate operational risk separately
+Fizzy Lifting Drinks,Sugar_Shack,4,Wicked_Choccys,51.13569995212702,617.3147868003305,129.63610522806945,3,1,Unknown - validate operational risk separately
+Fun Dip,Sugar_Shack,4,Secret_Factory,51.57839536413514,650.8069741851825,52.064557934814616,3,1,Unknown - validate operational risk separately
+Hair Toffee,The_Other_Factory,4,Lots_O_Nuts,47.122321198208326,351.42596812746774,59.7424145816695,2,2,Unknown - validate operational risk separately
+Kazookles,The_Other_Factory,4,Secret_Factory,41.10909800085483,-42.52679377822392,-135.6604721525344,0,4,Unknown - validate operational risk separately
+Laffy Taffy,Sugar_Shack,4,Wicked_Choccys,59.60070424889163,1178.9895634307536,259.3777039547659,3,1,Unknown - validate operational risk separately
+Lickable Wallpaper,Secret_Factory,4,The_Other_Factory,39.833857961274475,-113.73166708217492,-429.9057015706211,0,4,Unknown - validate operational risk separately
+Nerds,Sugar_Shack,4,Wicked_Choccys,53.67657856447777,790.2804329082267,79.02804329082265,3,1,Unknown - validate operational risk separately
+SweeTARTS,Sugar_Shack,4,Secret_Factory,49.21694130924228,485.8795748202588,184.63423843169835,3,1,Unknown - validate operational risk separately
+Wonka Bar - Fudge Mallows,Lots_O_Nuts,4,Secret_Factory,75.77060862312345,541.8001558590252,35536.67222279346,4,0,Unknown - validate operational risk separately
+Wonka Bar - Milk Chocolate,Wicked_Choccys,4,Secret_Factory,67.96305179751317,363.12415233147294,28465.302301264164,3,1,Unknown - validate operational risk separately
+Wonka Bar - Nutty Crunch Surprise,Lots_O_Nuts,4,Secret_Factory,78.35775456206467,586.5889520381147,38175.20899864054,4,0,Unknown - validate operational risk separately
+Wonka Bar - Triple Dazzle Caramel,Wicked_Choccys,4,Secret_Factory,68.39569265893188,391.1331533671446,28486.227559729134,3,1,Unknown - validate operational risk separately
+Wonka Bar -Scrumdiddlyumptious,Lots_O_Nuts,4,Secret_Factory,80.89430509387172,567.9900705693367,42042.62502354229,4,0,Unknown - validate operational risk separately
+Wonka Gum,Secret_Factory,4,The_Other_Factory,42.43146975290575,32.34953870628033,148.16088727476614,1,3,Unknown - validate operational risk separately

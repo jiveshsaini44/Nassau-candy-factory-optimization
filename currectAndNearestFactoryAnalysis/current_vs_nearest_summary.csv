@@ -1,0 +1,9 @@
+Metric,Value
+Total order rows,10194.0
+Rows matched to a destination,10194.0
+Rows with valid current-vs-nearest distances,9704.0
+Rows where current factory is already nearest,3038.0
+Rows where nearest factory differs,6666.0
+Average current-factory distance (km),1985.08
+Average nearest-factory distance (km),795.79
+Average potential distance reduction (km),1189.29
